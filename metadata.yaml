@@ -1,11 +1,16 @@
 _repo: Fagelskytten-och-andra-berattelser_54651
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54651-h/images/cover.jpg
 creator:
   author:
     agent_name: Högberg, Olof
     gutenberg_agent_id: '47971'
     url: http://www.gutenberg.org/2009/agents/47971
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54651#Fagelskytten-och-andra-berattelser
 gutenberg_issued: '2017-05-02'
 gutenberg_type: Text
 identifiers:
